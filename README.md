@@ -1,2 +1,2 @@
 # swc-python-binder
-Binderhub SWC test
+Jupyter notebook environment for SWC Programming with Python lesson.
